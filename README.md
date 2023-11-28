@@ -1,5 +1,3 @@
-love is love
 # Guacamole recipe
 
-1) I want this here
-This is an exercise repository.
+En vrai de vrai, est-ce que je n'aurais pas trouvé la facon de mettre V1.0 ??????
