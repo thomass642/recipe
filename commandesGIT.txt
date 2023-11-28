@@ -15,3 +15,15 @@ git show          # show the change for a specific commit
 git mv            # move/rename tracked files
 
 git rm            # remove tracked files
+
+git branch               # see where we are
+
+git branch NAME          # create branch NAME
+
+git switch NAME          # switch to branch NAME
+
+git merge NAME           # merge branch NAME (to current branch)
+
+git branch -d NAME       # delete branch NAME
+
+git branch -D NAME       # delete unmerged branch NAME
