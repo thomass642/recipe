@@ -1,0 +1,17 @@
+git init -b main  # initialize new repository (main is default branch)
+
+git add           # add files or stage file(s)
+
+git commit        # commit staged file(s)
+
+git status        # see what is going on
+
+git log           # see history
+
+git diff          # show unstaged/uncommitted modifications
+
+git show          # show the change for a specific commit
+
+git mv            # move/rename tracked files
+
+git rm            # remove tracked files
